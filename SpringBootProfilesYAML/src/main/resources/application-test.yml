@@ -1,0 +1,12 @@
+app:
+  server:
+    name: glashfish
+    detail: this is glasfish for test
+
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/sahith
+    username: root
+    password: Sarezhtr@019
